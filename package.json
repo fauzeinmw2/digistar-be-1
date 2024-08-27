@@ -1,0 +1,14 @@
+{
+  "name": "fibbonacci-sequence-fauzein",
+  "version": "1.0.0",
+  "description": "Tugas Hard Skill 1 Digistar Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fauzein Mulya Warman",
+  "license": "ISC",
+  "dependencies": {
+    "fibbonacci-sequence-fauzein": "^1.0.0"
+  }
+}
